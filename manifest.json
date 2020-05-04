@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Enderman shader resource pack",
+    "name": "Enderman Shader",
+    "uuid": "3cd552d3-772f-4976-ae98-3dd4aded5eb3",
+    "version": [14, 0, 0],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    {
+      "description": "Enderman shader resource pack",
+      "type": "resources",
+      "uuid": "4809087e-d138-4dcd-8836-247e7ca6b690",
+      "version": [14, 0, 0]
+    }
+  ]
+}
